@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "VeriBilimiOdev", "VeriBilimiOdev\VeriBilimiOdev.dtproj", "{754D9627-0879-43CD-A428-1060332FC8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754D9627-0879-43CD-A428-1060332FC8FE}.Development|Default.ActiveCfg = Development
+		{754D9627-0879-43CD-A428-1060332FC8FE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D1EE885-2D5A-4193-B075-1B2561F189B3}
+	EndGlobalSection
+EndGlobal
